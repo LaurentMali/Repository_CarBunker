@@ -50,5 +50,5 @@ Risk Register
 ● One is that the school douesn't open again 
 ● or that someone gets sick and the others have to do more 
 ● or someone forgets his part and doesn't do it and more
-● The main thing is that the "jobs" everyone gets aren't done, so there are going to be fights in the group. But we will manage     it.
+● The main thing is that the "jobs" everyone gets aren't done, so there are going to be fights in the group. But we will manage it.
 
