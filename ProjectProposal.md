@@ -56,3 +56,6 @@ Risk Register
 
 ● The main thing is that the "jobs" everyone gets aren't done, so there are going to be fights in the group. But we will manage it.
 
+------------------------------------------------------------------------------------------------------------------------------------
+We implemented a search function in our website in which you can search for brands and various models of cars, which are available in
+our website. Some of the examples are: VW, Ford, Audi etc. We are having some problems with the login because it is quite hard and a lot of work but as a group we will manage it. We have got the basics of the login, so i mean we have the basics. You can input an username and a password. Now we removed the login from our website because it makes it unstable. For the presentation we are going to present the search function, which was also some work to do. Our login is going to be a normal login which works with databases (mySQL). In the end we want to have a website, with the search function improved better. The login is also going to be finfished in some weeks. I think about 3 weeks and then the login will be working. 
